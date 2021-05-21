@@ -1,0 +1,7 @@
+{
+    "port": "COM3",
+    "configuration": "cpu=atmega328old",
+    "board": "arduino:avr:nano",
+    "programmer": "arduino:avrispmkii",
+    "sketch": "ECUMK2.ino"
+}
